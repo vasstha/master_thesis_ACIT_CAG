@@ -21,7 +21,7 @@ pip install -r ./requirements.txt
 ```
 
 
-##[!IMPORTANT]
+## [!IMPORTANT]
 Create your .env from the template and add the required keys:
 
 ```bash
@@ -30,8 +30,9 @@ cp ./.env.template ./.env
 
 ```
 
-##Usage
+## Usage
 nor_rag.py is for RAG Experiment
+
 nor_kvcache.py is for CAG Experiment
 
 
@@ -48,12 +49,12 @@ nor_kvcache.py is for CAG Experiment
 - `--output` *(string)* — output file path.
 - `--usePrompt` *(flag)* — include this flag if **not** using CAG knowledge-cache acceleration.
 
-> [!NOTE]
+### [!NOTE]
 > - For `--maxKnowledge` and `--maxQuestion`, set an integer to limit, or omit to use all available.
 > - Quotes are optional unless the value contains spaces.
 
 
-##Example -- kvcache.py
+## Example -- kvcache.py
 
 ```bash
 python ./nor_kvcache.py --kvcache file --dataset "squad-train" --similarity bertscore \
@@ -63,7 +64,7 @@ python ./nor_kvcache.py --kvcache file --dataset "squad-train" --similarity bert
 
 ```
 
-##Parameter Usage -- rag.py
+## Parameter Usage -- rag.py
 - `--index` *(string)* —  `"bm25"`.
 - `--dataset` *(string)* — `"squad-train"`.
 - `--similarity` *(string)* — `"bertscore"`.
@@ -74,8 +75,7 @@ python ./nor_kvcache.py --kvcache file --dataset "squad-train" --similarity bert
 - `--modelname` *(string)* — e.g. `"norallm/normistral-7b-warm-instruct"` or `"norallm/normistral-11b-warm"`..
 - `--randomSeed` *(int)* — random seed.
 - `--output` *(string)* — output file path.
-
-> [!NOTE]
+### [!NOTE]
 > - For `--maxKnowledge` and `--maxQuestion`, set an integer to limit, or omit to use all available.
 > - Quotes around values are optional unless the value contains spaces.
 ##Example -- rag.py
