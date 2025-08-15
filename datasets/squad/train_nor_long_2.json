@@ -1,0 +1,269 @@
+{
+  "data": [
+    {
+      "title": "Handlingskort_beredskap_KAD_bakvakt",
+      "paragraphs": [
+        {
+          "context": "KAD bakvakt (26731) mottar varsling fra forvakt (26730) og skal ikke varsle videre til noen. Møtestedet er KIO scopsentral, E4, 4. etasje. Bakvakten fungerer som kriseleder på KAD til avdelingsleder eller stedfortreder er på plass, og koordinerer pasienter som fordeles til KAD grunnet beredskap.",
+          "qas": [
+            {
+              "question": "Hvem varsler KAD bakvakt?",
+              "id": "kad_bv_001",
+              "answers": [
+                {
+                  "answer_start": 34,
+                  "text": "forvakt (26730)"
+                }
+              ]
+            },
+            {
+              "question": "Hvor er møtestedet for beredskap på KAD?",
+              "id": "kad_bv_002",
+              "answers": [
+                {
+                  "answer_start": 95,
+                  "text": "KIO scopsentral, E4, 4. etasje"
+                }
+              ]
+            },
+            {
+              "question": "Hvem fungerer som kriseleder på KAD initialt?",
+              "id": "kad_bv_003",
+              "answers": [
+                {
+                  "answer_start": 127,
+                  "text": "Bakvakten"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "KAD bakvaktens hovedoppgaver under beredskap inkluderer: 1) Fungere som kriseleder på KAD til avdelingsleder/stedfortreder er på plass, 2) Overta forvakt sin deltakelse i ekstraordinært driftsmøte hvis forvakt får innkallelse, 3) Få oppdatert informasjon fra forvakt og ansvarshavende sykepleier KIO om pasientbelegg, videre plan og behov for ressurser, 4) Utpeke ansvarlig lege for KADS og KIO, 5) Kalle inn legepersonell ved behov for mobilisering.",
+          "qas": [
+            {
+              "question": "Hvor mange hovedoppgaver har KAD bakvakt under beredskap?",
+              "id": "kad_bv_004",
+              "answers": [
+                {
+                  "answer_start": 290,
+                  "text": "5"
+                }
+              ]
+            },
+            {
+              "question": "Hvem utpeker bakvakten som ansvarlig lege for?",
+              "id": "kad_bv_005",
+              "answers": [
+                {
+                  "answer_start": 254,
+                  "text": "KADS og KIO"
+                }
+              ]
+            },
+            {
+              "question": "Når kan bakvakten kalle inn legepersonell?",
+              "id": "kad_bv_006",
+              "answers": [
+                {
+                  "answer_start": 302,
+                  "text": "ved behov for mobilisering"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "KAD bakvakt rapporterer til avdelingsleder/stedfortreder, som er en del av klinikkens kriseledelse. Ved ekstraordinært driftsmøte rapporteres det i tillegg til akuttklinikkens stedlige koordinator eller vaktleder (26708). Dokumentet ble sist revidert i oktober 2024 da beredskapsplanen ble revidert.",
+          "qas": [
+            {
+              "question": "Hvem rapporterer KAD bakvakt til?",
+              "id": "kad_bv_007",
+              "answers": [
+                {
+                  "answer_start": 25,
+                  "text": "avdelingsleder/stedfortreder"
+                }
+              ]
+            },
+            {
+              "question": "Hvilket telefonnummer har akuttklinikkens vaktleder?",
+              "id": "kad_bv_008",
+              "answers": [
+                {
+                  "answer_start": 190,
+                  "text": "26708"
+                }
+              ]
+            },
+            {
+              "question": "Når ble handlingskortet sist revidert?",
+              "id": "kad_bv_009",
+              "answers": [
+                {
+                  "answer_start": 225,
+                  "text": "oktober 2024"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Handlingskort_beredskap_KAD_forvakt",
+      "paragraphs": [
+        {
+          "context": "KAD forvakt (26730) mottar varsling fra ansvarshavende sykepleier KIO, eller KADS ved intern hendelse/ulykke. Forvakten skal varsle videre til: 1) Kardiologisk bakvakt (26731, evt. privat mobilnummer), 2) Avdelingsleder KAD (73671, evt. privat mobilnummer), 3) Hvis ikke avdelingsleder er tilstede, vurdere sammen med bakvakt/avdelingsleder om KAD seksjonsledere skal varsles, 4) Andre berørte parter.",
+          "qas": [
+            {
+              "question": "Hvem varsler KAD forvakt?",
+              "id": "kad_fv_001",
+              "answers": [
+                {
+                  "answer_start": 44,
+                  "text": "ansvarshavende sykepleier KIO"
+                }
+              ]
+            },
+            {
+              "question": "Hvilket telefonnummer har kardiologisk bakvakt?",
+              "id": "kad_fv_002",
+              "answers": [
+                {
+                  "answer_start": 164,
+                  "text": "26731"
+                }
+              ]
+            },
+            {
+              "question": "Hvilket telefonnummer har avdelingsleder KAD?",
+              "id": "kad_fv_003",
+              "answers": [
+                {
+                  "answer_start": 224,
+                  "text": "73671"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "KAD forvakt fungerer som kriseleder på KAD i samarbeid med ansvarshavende sykepleier på KIO til bakvakt eller avdelingsleder/stedfortreder er på plass. Møtestedet er KIO scopsentral, E4, 4. etasje. Forvakten skal kartlegge sammen med ansvarshavende sykepleier KIO/KADS hvilke inneliggende pasienter på KIO og KADS som kan overflyttes eller utskrives.",
+          "qas": [
+            {
+              "question": "Hvem samarbeider KAD forvakt med som kriseleder?",
+              "id": "kad_fv_004",
+              "answers": [
+                {
+                  "answer_start": 62,
+                  "text": "ansvarshavende sykepleier på KIO"
+                }
+              ]
+            },
+            {
+              "question": "Hva skal forvakten kartlegge sammen med ansvarshavende sykepleier?",
+              "id": "kad_fv_005",
+              "answers": [
+                {
+                  "answer_start": 273,
+                  "text": "hvilke inneliggende pasienter på KIO og KADS som kan overflyttes eller utskrives"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "KAD forvaktens oppgaver inkluderer også å vurdere omorganisering innad i avdelingen for å sikre tilstrekkelig bemanning og forsvarlig pasientbehandling, samt igangsettelse av overflytting/utskrivelse. Forvakten kan delta på ekstraordinært driftsmøte hvis man får innkallelse, hvor de koordinerer pasienter som fordeles til KAD grunnet beredskap.",
+          "qas": [
+            {
+              "question": "Hva skal forvakten sikre gjennom omorganisering?",
+              "id": "kad_fv_006",
+              "answers": [
+                {
+                  "answer_start": 89,
+                  "text": "tilstrekkelig bemanning og forsvarlig pasientbehandling"
+                }
+              ]
+            },
+            {
+              "question": "Hva koordinerer forvakten på ekstraordinært driftsmøte?",
+              "id": "kad_fv_007",
+              "answers": [
+                {
+                  "answer_start": 284,
+                  "text": "pasienter som fordeles til KAD grunnet beredskap"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "KAD forvakt rapporterer til bakvakt frem til avdelingsleder/stedfortreder er på plass. Ved ekstraordinært driftsmøte rapporteres det i tillegg til akuttklinikkens stedlige koordinator eller vaktleder (26708). Forvakten får calling til beredskapsledelse - initial koordinering Rikshospitalet (dok.id. 84724).",
+          "qas": [
+            {
+              "question": "Hvem rapporterer KAD forvakt til initialt?",
+              "id": "kad_fv_008",
+              "answers": [
+                {
+                  "answer_start": 25,
+                  "text": "bakvakt"
+                }
+              ]
+            },
+            {
+              "question": "Hvilket dokument-ID har beredskapsledelse - initial koordinering?",
+              "id": "kad_fv_009",
+              "answers": [
+                {
+                  "answer_start": 301,
+                  "text": "84724"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Beredskap_generell_informasjon",
+      "paragraphs": [
+        {
+          "context": "Formålet med handlingskortene for KAD beredskap er å beskrive ansvar og oppgaver ved gul og rød beredskap. Begge handlingskortene ble revidert i oktober 2024 da beredskapsplanen ble revidert. Dokumentene er godkjent av Lars Aaberge og er en del av fagrådet for kardiologisk avdeling ved Hjerte, lunge- og karklinikken (HLK).",
+          "qas": [
+            {
+              "question": "Hva beskriver handlingskortene for KAD beredskap?",
+              "id": "beredskat_gen_001",
+              "answers": [
+                {
+                  "answer_start": 67,
+                  "text": "ansvar og oppgaver ved gul og rød beredskap"
+                }
+              ]
+            },
+            {
+              "question": "Hvem har godkjent beredskapsdokumentene?",
+              "id": "beredskap_gen_002",
+              "answers": [
+                {
+                  "answer_start": 223,
+                  "text": "Lars Aaberge"
+                }
+              ]
+            },
+            {
+              "question": "Hvilken klinikk tilhører kardiologisk avdeling?",
+              "id": "beredskap_gen_003",
+              "answers": [
+                {
+                  "answer_start": 297,
+                  "text": "Hjerte, lunge- og karklinikken (HLK)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
