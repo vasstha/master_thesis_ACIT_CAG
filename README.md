@@ -81,7 +81,7 @@ python ./nor_kvcache.py --kvcache file --dataset "squad-train" --similarity bert
 ##Example -- rag.py
 
 ```bash
-python ./rag.py --index "bm25" --dataset "squad-train" --similarity bertscore \
+python ./nor_rag.py --index "bm25" --dataset "squad-train" --similarity bertscore \
     --maxKnowledge 80 --maxParagraph 100 --maxQuestion 80 --topk 3 \
     --modelname "norallm/normistral-7b-warm-instruct" --randomSeed  0 \
     --output  "./rag_results.txt"
