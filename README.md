@@ -40,9 +40,9 @@ nor_kvcache.py is for CAG Experiment
 ## Parameters nor_kvcahe.py
 
 - `--kvcache` *(string)* — e.g. `"file"`.
-- `--dataset` *(string)* — `"hotpotqa-train"` or `"squad-train"`.
+- `--dataset` *(string)* —  `"squad-train"`.
 - `--similarity` *(string)* — `"bertscore"`.
-- `--modelname` *(string)* — e.g. `"meta-llama/Llama-3.1-8B-Instruct"`.
+- `--modelname` *(string)* — e.g. `"norallm/normistral-7b-warm-instruct"` or `"norallm/normistral-11b-warm"`.
 - `--maxKnowledge` *(int)* — number of documents to use from the dataset. See **Note** below.
 - `--maxParagraph` *(int)* — default `100`.
 - `--maxQuestion` *(int)* — max number of questions. See **Note** below.
@@ -66,14 +66,14 @@ python ./nor_kvcache.py --kvcache file --dataset "squad-train" --similarity bert
 ```
 
 ##Parameter Usage -- rag.py
-- `--index` *(string)* — `"openai"` or `"bm25"`.
-- `--dataset` *(string)* — `"hotpotqa-train"` or `"squad-train"`.
+- `--index` *(string)* —  `"bm25"`.
+- `--dataset` *(string)* — `"squad-train"`.
 - `--similarity` *(string)* — `"bertscore"`.
 - `--maxKnowledge` *(int)* — number of documents to use from the dataset. See **Note** below.
 - `--maxParagraph` *(int)* — default `100`.
 - `--maxQuestion` *(int)* — max number of questions. See **Note** below.
 - `--topk` *(int)* — top-K results to keep from the retrieval step.
-- `--modelname` *(string)* — e.g. `"meta-llama/Llama-3.1-8B-Instruct"`.
+- `--modelname` *(string)* — e.g. `"norallm/normistral-7b-warm-instruct"` or `"norallm/normistral-11b-warm"`..
 - `--randomSeed` *(int)* — random seed.
 - `--output` *(string)* — output file path.
 
@@ -85,6 +85,6 @@ python ./nor_kvcache.py --kvcache file --dataset "squad-train" --similarity bert
 ```bash
 python ./rag.py --index "bm25" --dataset "hotpotqa-train" --similarity bertscore \
     --maxKnowledge 80 --maxParagraph 100 --maxQuestion 80 --topk 3 \
-    --modelname "meta-llama/Llama-3.1-8B-Instruct" --randomSeed  0 \
+    --modelname "norallm/normistral-7b-warm-instruct" --randomSeed  0 \
     --output  "./rag_results.txt"
 ```
