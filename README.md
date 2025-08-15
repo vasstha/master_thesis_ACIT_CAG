@@ -1,8 +1,6 @@
-#Master Thesis ACIT 2025 Oslomet Data Science
+# Master Thesis ACIT 2025 Oslomet Data Science
 
-#Towards Improving Information Retrieval
-through Cache-Augmented Generation: A
-Case Study in Norwegian Healthcare
+## Towards Improving Information Retrieval through Cache-Augmented Generation: A Case Study in Norwegian Healthcare
 
 We conduct a comparative evaluation between CAG and RAG using two LLM configurations—
 7B and 11B parameters—tested across multiple question sets (20, 50, and 100 queries)
