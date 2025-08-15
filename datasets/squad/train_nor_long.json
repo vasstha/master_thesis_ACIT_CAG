@@ -1,0 +1,667 @@
+{"data": [{"title": "Antibiotikaprofylakse_hjertekirurgi","paragraphs": [{"context": "VOKSEN: Standard-regime: Cefazolin i.v. 2 g gis 15–60 min før incisjon. Gis hver 3. time peroperativt (når såret er åpent), og hver 8. time postoperativt (når såret er lukket). Til avsluttet operasjon – maksimalt 5 doser. Profylakse i 24 timer med én dose hver 8. time.\n\nVed overvekt >120 kg, bør dosen økes til 3 g. Ved redusert nyrefunksjon (GFR < 60 ml/min) bør vedlikeholdsdosen reduseres.\n\nVed penicillinallergi: Klindamycin i.v. 600 mg gis 15–60 min før incisjon og deretter 600 mg hver 6. time. Profylakse i 24 timer, maks 4 doser.\n\nBARN: Standard-regime: Cefazolin i.v. 30 mg/kg (maks 2 g) gis 15–60 min før incisjon, deretter hver 180. min peroperativt og hver 8. time postoperativt. Ved innsettelse av patch skal det gis antibiotikabehandling i 5 dager.\n\nVed penicillinallergi: Klindamycin i.v. 10 mg/kg gis 15–60 min før incisjon. Profylakse i 24 timer, maks 4 doser. Barn < 3 mnd vurderes individuelt.", "qas": [
+            {
+              "question": "Hva er standard dosering av Cefazolin for voksne?",
+              "id": "6849edae-9fd1-46c0-9809-8956a40e1deb",
+              "answers": [
+                {
+                  "answer_start": 25,
+                  "text": "Cefazolin i.v. 2 g"
+                }
+              ]
+            },
+            {
+              "question": "Hva bør gjøres ved overvekt over 120 kg?",
+              "id": "7e94f5c5-53e3-4ba9-82b0-7711983ad222",
+              "answers": [
+                {
+                  "answer_start": 271,
+                  "text": "dosen økes til 3 g"
+                }
+              ]
+            },
+            {
+              "question": "Hva er alternativet ved penicillinallergi hos voksne?",
+              "id": "776984e7-f972-46ab-87cc-9da1327a0e95",
+              "answers": [
+                {
+                  "answer_start": 418,
+                  "text": "Klindamycin i.v. 600 mg"
+                }
+              ]
+            },
+            {
+              "question": "Hvordan doseres Cefazolin til barn?",
+              "id": "388a09ca-0b58-48bc-9708-c51e3ebc9ccb",
+              "answers": [
+                {
+                  "answer_start": 563,
+                  "text": "Cefazolin i.v. 30 mg/kg"
+                }
+              ]
+            },
+            {
+              "question": "Hvor lenge varer profylaksen hos barn med klindamycin?",
+              "id": "7812215e-e823-4945-adcc-fa5e3291de02",
+              "answers": [
+                {
+                  "answer_start": 502,
+                  "text": "Profylakse i 24 timer, maks 4 doser"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Åpen_sternum_postoperativ_sykepleie_barn",
+      "paragraphs": [
+        {
+          "context": "Ved åpen sternum skal barnet ha ryggleie med hodeenden hevet inntil 20 grader om pasientens hemodynamikk tillater det. Barnet skal ikke løftes over på en vekt og må være godt smertelindret og sedert. Risiko for postoperativ blødning og tamponade krever tett oppfølging av patchen over sternum. Patchen skal inspiseres hver ½ time de første 2-3 timene postoperativt. Et spent og bulende utseende på patchen kan indikere tamponade og kirurg må kontaktes umiddelbart.\n\nVed lukking av sternum må vitale parametere overvåkes nøye, og sternum kan måtte åpnes igjen ved sirkulatorisk ustabilitet. Overventilasjon ved bagging kan føre til barotraume, og det er vanlig med luftlekkasje i thoraxdren ved åpen sternum.\n\nLavt cardiac output kan føre til væskeopphopning og forsinket lukking. Ernæring er viktig for å redusere infeksjonsfare og sedasjonsbehov. Infeksjonsforebygging krever strenge hygienetiltak, inkludert håndhygiene, beskyttelse av sår, daglig desinfisering av utstyr, og informasjon til pårørende. Etter lukking skal såret dekkes med tørr bandasje, og pasienten bør ikke plasseres nær vask eller høy trafikk.",
+          "qas": [
+            {
+              "question": "Hvordan skal barnet ligge ved åpen sternum?",
+              "id": "31a84a41-379c-44be-8970-3fc2fd329ec0",
+              "answers": [
+                {
+                  "answer_start": 32,
+                  "text": "ryggleie med hodeenden hevet inntil 20 grader"
+                }
+              ]
+            },
+            {
+              "question": "Hva er et tegn på tamponade?",
+              "id": "f415bb02-3f05-4fd6-aed8-b6ffe1ce6223",
+              "answers": [
+                {
+                  "answer_start": 369,
+                  "text": "spent og bulende utseende på patchen"
+                }
+              ]
+            },
+            {
+              "question": "Hva kan overventilasjon ved bagging føre til?",
+              "id": "dfc94c77-fced-48ad-883d-dc4148670284",
+              "answers": [
+                {
+                  "answer_start": 631,
+                  "text": "barotraume"
+                }
+              ]
+            },
+            {
+              "question": "Hvor ofte skal patchen inspiseres de første timene?",
+              "id": "685c4294-6d32-49e7-958f-aa56591672f2",
+              "answers": [
+                {
+                  "answer_start": 318,
+                  "text": "hver ½ time de første 2-3 timene"
+                }
+              ]
+            },
+            {
+              "question": "Hvilke tiltak skal bidra til infeksjonsforebygging?",
+              "id": "be2cfeed-bd1d-4620-b0af-996f62fffe4c",
+              "answers": [
+                {
+                  "answer_start": 910,
+                  "text": "håndhygiene, beskyttelse av sår, daglig desinfisering av utstyr, og informasjon til pårørende"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Arbeidsbelastning_Tredemølle",
+      "paragraphs": [
+        {
+          "context": "Arbeidsbelastning på tredemølle er en test for å måle maksimalt oksygenopptak. Under testen overvåkes hjertefrekvens, blodtrykk og ventilasjon. Testen gjennomføres i tråd med internasjonale retningslinjer og kan avsluttes ved symptomer som brystsmerter, svimmelhet, blodtrykksfall eller oksygenmetning under 80 %. Pasienten skal forberedes med kalibrert utstyr og kobles opp med EKG, blodtrykksmansjett og maske. Testen styres og avsluttes av helsepersonell. Pasienten kan gå rolig etter test for å unngå synkope. Ved lungekirurgivurdering gis bronkodilaterende medisiner før test.",
+          "qas": [
+            {
+              "question": "Hva måles under tredemølletesten?",
+              "id": "36e7b173-1b6d-49dc-88b1-5c225d58e162",
+              "answers": [
+                {
+                  "answer_start": 68,
+                  "text": "hjertefrekvens, blodtrykk og ventilasjon"
+                }
+              ]
+            },
+            {
+              "question": "Når skal tredemølletesten avsluttes?",
+              "id": "8814470c-c71a-44e7-8c02-c68db230dfde",
+              "answers": [
+                {
+                  "answer_start": 153,
+                  "text": "brystsmerter, svimmelhet, blodtrykksfall eller oksygenmetning under 80 %"
+                }
+              ]
+            },
+            {
+              "question": "Hva skal pasienten bruke under testen?",
+              "id": "d3f78189-b1d2-437e-a03f-80c53d1e989c",
+              "answers": [
+                {
+                  "answer_start": 222,
+                  "text": "EKG, blodtrykksmansjett og maske"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ernæring_HVHS_Univentrikulære_Barn",
+      "paragraphs": [
+        {
+          "context": "Barn med hypoplastisk venstre hjerte syndrom (HVHS) har økt kaloribehov og trenger ofte sondeernæring. De starter ofte med væsketilførsel 10 % av kroppsvekt, økes gradvis til 150 ml/kg/døgn. Måltider gis hver 2. time i starten og nattmåltid er alltid nødvendig før operasjon 2. Symptomer på hypovolemi inkluderer gråblek hud, kalde ekstremiteter og lite urin. Vektøkning ønskes >150 g/uke. Foreldre skal læres opp i tegn på hypovolemi og væskebehov.",
+          "qas": [
+            {
+              "question": "Hvorfor trenger barn med HVHS sondeernæring?",
+              "id": "14af5399-40e5-4741-9912-41ed38bc8f49",
+              "answers": [
+                {
+                  "answer_start": 51,
+                  "text": "har økt kaloribehov og trenger ofte sondeernæring"
+                }
+              ]
+            },
+            {
+              "question": "Hva er ønsket væskeinntak per døgn?",
+              "id": "e18e6ed5-c0a7-4324-9c85-55ad88b1f58e",
+              "answers": [
+                {
+                  "answer_start": 117,
+                  "text": "150 ml/kg/døgn"
+                }
+              ]
+            },
+            {
+              "question": "Hvilke symptomer tyder på hypovolemi?",
+              "id": "7b2c44e0-17c4-4d0a-a511-809816c6a607",
+              "answers": [
+                {
+                  "answer_start": 234,
+                  "text": "gråblek hud, kalde ekstremiteter og lite urin"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Basale_smittevernrutiner_Operasjonsgang1",
+      "paragraphs": [
+        {
+          "context": "Basale smittevernsrutiner skal hindre smitteoverføring ved Operasjonsgang1. Alle kroppsvæsker kan inneholde smittestoff. Håndhygiene er det viktigste tiltaket. Personalet skal ikke bruke ringer, klokker eller kunstige negler. Bruk alkoholbasert desinfeksjon ved rene hender, såpe og vann når synlig tilsølt. Alt utstyr som kommer i kontakt med kroppsvæske skal håndteres forsvarlig. Øyebeskyttelse, munnbind, hårbeskyttelse og hansker skal benyttes etter prosedyretype. Injeksjonspraksis skal være trygg med sterile engangsprodukter. Flergangsbeholdere må merkes og brukes innen 24 timer.",
+          "qas": [
+            {
+              "question": "Hva er det viktigste smitteverntiltaket?",
+              "id": "94e49a94-f774-4e35-a429-3302a6793db0",
+              "answers": [
+                {
+                  "answer_start": 130,
+                  "text": "Håndhygiene"
+                }
+              ]
+            },
+            {
+              "question": "Hvilket utstyr skal brukes ved sterile prosedyrer?",
+              "id": "d4e5fc0c-e631-4ef8-8a42-8c0632346a02",
+              "answers": [
+                {
+                  "answer_start": 308,
+                  "text": "øyebeskyttelse, munnbind, hårbeskyttelse og hansker"
+                }
+              ]
+            },
+            {
+              "question": "Hvor lenge kan en åpnet flergangsbeholder brukes?",
+              "id": "be27f2e4-cf46-4d2b-bc3c-e6b36e2b76c5",
+              "answers": [
+                {
+                  "answer_start": 411,
+                  "text": "innen 24 timer"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Beredskapsplan_Kardiologisk_Avdeling_KAD",
+      "paragraphs": [
+        {
+          "context": "Avdelingen skal ha egen beredskapsplan (nivå 3) og egne delplaner og handlingskort knyttet til ulike utfordringer og svikt. Invasiv seksjon på Ullevål forholder seg til Hjertemedisinsk avdeling på Ullevål ved beredskap. HLKs overordnede planer er styrende. Avdelingsleder er ansvarlig for at planen er oppdatert, og vaktgående personell fungerer som kriseleder frem til ledelsen er på plass. Ved gul og rød beredskap varsles KIO som vurderer iverksetting av tiltak. Ved intern svikt må ansvarshavende sykepleier og forvakt varsles umiddelbart, og informasjon skal inneholde hva som har skjedd, når, varighet og antall berørte. Beredskapsledelse etableres på Kardiologisk intensiv og overvåkning. Brann, IKT-svikt, forsyningssvikt, legemiddelmangel og sikkerhetstrusler har egne tiltak og kontaktpunkter. Ved massepågang må pasienter fordeles etter medisinsk behov, og ansatte kan mobiliseres via SMS. Ved alvorlig smittsom sykdom gjelder isolasjon og kontakt med smittevern.",
+          "qas": [
+            {
+              "question": "Hvem har ansvar for at beredskapsplanen er oppdatert?",
+              "id": "4306456f-b1ae-4481-836c-f13a79b68e62",
+              "answers": [
+                {
+                  "answer_start": 262,
+                  "text": "Avdelingsleder"
+                }
+              ]
+            },
+            {
+              "question": "Hva skal en intern varselmelding inneholde?",
+              "id": "992d54e5-25e8-4d6b-95fa-6bbbd43bb0e0",
+              "answers": [
+                {
+                  "answer_start": 528,
+                  "text": "hva som har skjedd, når, varighet og antall berørte"
+                }
+              ]
+            },
+            {
+              "question": "Hvor opprettes beredskapsledelse for KAD?",
+              "id": "1ec234c1-cc0f-4b6c-8a6a-68f3018d38f4",
+              "answers": [
+                {
+                  "answer_start": 498,
+                  "text": "Kardiologisk intensiv og overvåkning"
+                }
+              ]
+            },
+            {
+              "question": "Hvilke hendelser har egne tiltak og kontaktpunkter?",
+              "id": "ac33c3c1-c2aa-4cf0-a732-b2f3369c5d45",
+              "answers": [
+                {
+                  "answer_start": 578,
+                  "text": "Brann, IKT-svikt, forsyningssvikt, legemiddelmangel og sikkerhetstrusler"
+                }
+              ]
+            },
+            {
+              "question": "Hvordan mobiliseres ansatte ved massepågang?",
+              "id": "c6e1375e-2330-4b59-b94a-65e28180c3eb",
+              "answers": [
+                {
+                  "answer_start": 639,
+                  "text": "via SMS"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hjertetransplantasjon",
+      "paragraphs": [
+        {
+          "context": "Hjertesvikt er en tilstand der hjertet ikke klarer å pumpe tilstrekkelig med blod for å tilfredsstille kroppens behov. Til å begynne med vil symptomer oftest melde seg under anstrengelser. Uansett underliggende årsak til hjertesvikt vil hovedsymptomet være tung pust. Ved forverring skal det mindre til for å bli tung i pusten, og tilleggssymptomer som slapphet og tretthet dominerer stadig mer av hverdagen. Væske kan hope seg opp i kroppen og ses gjerne først rundt anklene, samtidig som vekten øker og man føler seg stinn i magen. Væskeansamling i lungene vil forverre en allerede redusert pusteevne, og tvinger pasienter til å heve overkroppen i liggende stilling. Inaktivitet med tap av muskelmasse og redusert appetitt kan på sikt medføre vektreduksjon, og er vanligvis et tegn på alvorlig hjertesvikt. Hovedårsaken til hjertesvikt blant de som har blitt hjertetransplantert i Norge er: 1) Kransarteriesykdom; dvs. ”åreforkalkning” som rammer hjertets egne blodårer (= kransårer). Går disse tette utvikler man hjerteinfarkt med tap av hjertemuskulatur, som vil medføre redusert pumpeevne og dermed hjertesvikt. 2) Muskelsykdom i hjertet kan også forekomme uten at kransårene er forkalket; ofte benevnt som kardiomyopati. I tillegg kan hjerteklaffene bli trange eller lekke, og følgelig medføre hjertesvikt. Ulike former for medfødt hjertesykdom (på fagspråk ofte kalt GUCH), kan med årene også gi opphav til stadig mer sviktende hjerter. Tidligere gjennomgått behandling av noen kreftformer med cellegift og røntgenstråling kan også redusere hjertefunksjonen flere år etter at man ellers er vellykket behandlet for sin kreftsykdom. Hjertesvikt vil som oftest kunne behandles ved hjelp av medikamenter. Flere ulike preparater har gjennom store studier vist seg å lindre symptomer og forlenge liv. I andre tilfeller vil hjertekirurgi med bypass-teknikk eller innsetting av hjerteventiler være nødvendig for å gjenopprette god pumpefunksjon av hjertet. Egeninnsats kan også bidra til vesentlig fremgang hos mange, og da som oftest i form av endret livsstil. Vektreduksjon ved overvekt, røykeslutt og moderat regelmessig mosjon, vil gi gevinster som viktige supplement til medikamentell/operativ behandling. Hjertetransplantasjon er å oppfatte som en mulighet bare når alle andre behandlingsformer for den aktuelle hjertelidelsen har vært forsøkt (evt. vurdert) uten å ha gitt forventet resultat. Så godt det lar seg gjøre, ønsker vi å gi tilbud om en slik behandling til de som kan tåle den og som er mest trengende.",
+          "qas": [
+            {
+              "id": "c6e1375e-2330-4b59-b94a-65e28180c9eb",
+              "question": "Hva er hjertesvikt?",
+              "answers": [
+              {
+                "text": "en tilstand der hjertet ikke klarer å pumpe tilstrekkelig med blod for å tilfredsstille kroppens behov",
+                "answer_start": 25
+              }
+              ]
+            },
+            {
+              "id": "c6e1875e-2390-4b59-b94a-65e28180c8eb",
+              "question": "Hva er det vanligste symptomet på hjertesvikt?",
+              "answers": [
+                {
+                  "text": "tung pust",
+                  "answer_start": 198
+                }
+              ]
+            },
+            {
+              "id": "2d4ad34f-eeed-4642-8bf2-46605712a2fc",
+              "question": "Hva skjer ved væskeansamling i lungene hos hjertesviktpasienter?",
+              "answers": [
+                {
+                  "text": "forverre en allerede redusert pusteevne",
+                  "answer_start": 471
+                }
+              ]
+            },
+            {
+              "id": "aef45326-2316-4d2d-9df2-c227724df1ae",
+              "question": "Hva kan tap av muskelmasse og redusert appetitt føre til?",
+              "answers": [
+                {
+                  "text": "vektreduksjon",
+                  "answer_start": 559
+                }
+              ]
+            },
+            {
+              "id": "c4f8ace6-4009-4889-abdb-e7c38bd0f785",
+              "question": "Hva er hovedårsaken til hjertesvikt blant de som har blitt hjertetransplantert i Norge?",
+              "answers": [
+                {
+                  "text": "Kransarteriesykdom",
+                  "answer_start": 624
+                }
+              ]
+            },
+            {
+              "id": "1729a50b-d467-4f85-bac4-17db99030446",
+              "question": "Hva kan skje hvis kransårene tetter seg?",
+              "answers": [
+                {
+                  "text": "hjerteinfarkt med tap av hjertemuskulatur",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "5e607db9-efb4-4fe8-817c-ec21cd5e0f70",
+              "question": "Hva er kardiomyopati?",
+              "answers": [
+                {
+                  "text": "Muskelsykdom i hjertet",
+                  "answer_start": 782
+                }
+              ]
+            },
+            {
+              "id": "ed12caa5-61db-43f9-9714-53be798b9dd7",
+              "question": "Hva kalles medfødt hjertesykdom på fagspråk?",
+              "answers": [
+                {
+                  "text": "GUCH",
+                  "answer_start": 868
+                }
+              ]
+            },
+            {
+              "id": "b80338f0-a986-463b-b9fe-fb76ffa43417",
+              "question": "Hva kan redusere hjertefunksjonen etter kreftbehandling?",
+              "answers": [
+                {
+                  "text": "cellegift og røntgenstråling",
+                  "answer_start": 914
+                }
+              ]
+            },
+            {
+              "id": "dd803a42-2cf9-44d2-b41c-7b97e1c6a85e",
+              "question": "Hvilke tiltak kan lindre symptomer og forlenge livet ved hjertesvikt?",
+              "answers": [
+                {
+                  "text": "medikamenter",
+                  "answer_start": 982
+                }
+              ]
+            },
+            {
+              "id": "e32992f2-8325-46e8-9efe-e8833ac3e149",
+              "question": "Hva kan være nødvendig i tillegg til medisiner ved alvorlig hjertesvikt?",
+              "answers": [
+                {
+                  "text": "hjertekirurgi med bypass-teknikk eller innsetting av hjerteventiler",
+                  "answer_start": 1068
+                }
+              ]
+            },
+            {
+              "id": "7d43f36c-f150-49c5-a979-c8a92eb9ecf4",
+              "question": "Hvordan kan egeninnsats bidra til forbedring ved hjertesvikt?",
+              "answers": [
+                {
+                  "text": "endret livsstil",
+                  "answer_start": 1148
+                }
+              ]
+            },
+            {
+              "id": "7d43f35c-f100-49c5-a979-c0a92eb9ecf4",
+              "question": "Når vurderes hjertetransplantasjon som behandlingsalternativ?",
+              "answers": [
+                {
+                  "text": "bare når alle andre behandlingsformer for den aktuelle hjertelidelsen har vært forsøkt",
+                  "answer_start": 1232
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hjertetransplantasjon i Norge",
+      "paragraphs": [
+        {
+          "context": "Den første hjertetransplantasjonen i Norge (og i Norden) ble utført av Tor Frøysaker og medarbeidere ved Rikshospitalet i Oslo i 1983. I og med at Christian Barnard allerede i 1967 transplanterte det første hjertet i verden, kan det virke som om vi var sent ute med å plukke opp et nytt behandlingsprinsipp. Resultatene fra ulike sentra i verden var imidlertid så dårlige at man internasjonalt var usikker på aktivitetens fremtid. I 1980 tok Norman E. Shumway ved Stanford University i California i bruk et nytt medikament (cyklosporin) for å forhindre avstøtning av det transplanterte organet. Da erfaringene med denne nye formen for immunsuppresjon (immundempende medikamenter) viste at 80 % av pasientene var i live etter 2 år, mente Rikshospitalet at det var berettiget å tilby behandlingsformen i Norge. I dag utføres alle transplantasjoner av hjerter ved dette sykehuset, slik praksis også er for andre organtransplantasjoner. De siste 10-15 år har vi utført ca. 30-35 hjertetransplantasjoner i Norge per år. Justeres dette for antall nordmenn, er det meget få nasjoner som har en høyere aktivitet på dette området. Den første tiden etter 1983 var tallene lavere, slik at vi i pr. oktober 2016, har utført over 880 hjertetransplantasjoner i Norge. Overlevelsen i vårt eget register er vel så god som fra databaser som inneholder mer enn 100 000 hjertetransplanterte. Spesielle karakteristika hos både donor (organgiver) og resipient (mottaker) er avgjørende. Statistisk sett oppnås lengst overlevelse blant yngre pasienter/resipienter uten hjertesvikt betinget i kransarteriesykdom, og som får hjerte fra yngre donorer. Transplantasjon forkortes til Tx, både i Norge og internasjonalt.",
+          "qas": [
+            {
+              "id": "df63b750-8d6a-4e48-851a-4269c3b50d85",
+              "question": "Hvem utførte den første hjertetransplantasjonen i Norge?",
+              "answers": [
+                {
+                  "answer_start": 62,
+                  "text": "Tor Frøysaker og medarbeidere ved Rikshospitalet i Oslo"
+                }
+              ]
+            },
+            {
+              "id": "b161e038-5953-4ae7-94ff-121d239ee8f3",
+              "question": "Når ble den første hjertetransplantasjonen i Norge utført?",
+              "answers": [
+                {
+                  "answer_start": 50,
+                  "text": "1983"
+                }
+              ]
+            },
+            {
+              "id": "1ed98ecf-4d92-4a4b-9333-01f3791c9efb",
+              "question": "Hva het medisinen som Norman E. Shumway brukte for å forhindre avstøtning?",
+              "answers": [
+                {
+                  "answer_start": 330,
+                  "text": "cyklosporin"
+                }
+              ]
+            },
+            {
+              "id": "2bc24f89-5db9-402f-997c-20ff7d9a42ae",
+              "question": "Hvor mange hjertetransplantasjoner utføres det årlig i Norge?",
+              "answers": [
+                {
+                  "answer_start": 597,
+                  "text": "ca. 30-35 hjertetransplantasjoner i Norge per år"
+                }
+              ]
+            },
+            {
+              "id": "a1d842e1-fc0b-4033-a845-0ebf38ff3c84",
+              "question": "Hva står forkortelsen Tx for?",
+              "answers": [
+                {
+                  "answer_start": 938,
+                  "text": "Transplantasjon"
+                }
+              ]
+            },
+            {
+              "id": "c0833b9f-1c84-43c7-924e-73560a40c64b",
+              "question": "Hvilke pasienter har statistisk sett best overlevelse etter transplantasjon?",
+              "answers": [
+                {
+                  "answer_start": 859,
+                  "text": "yngre pasienter/resipienter uten hjertesvikt betinget i kransarteriesykdom, og som får hjerte fra yngre donorer"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Indikasjoner for hjertetransplantasjon",
+      "paragraphs": [
+        {
+          "context": "Medisinske vurderinger for hvem som trenger hjertetransplantasjon kan variere noe fra land til land og fra senter (sykehus) til senter, men 3 grunnleggende retningslinjer gjelder over alt: • Pga. mangel på donorer, er ethvert tilbudt organ en spesiell ressurs som ikke kan skaffes ved økonomiske midler. De må derfor anvendes på best mulig måte. • Operasjonen er ingen ”helbredelseskur” og du må ha en livslang medikamentell behandling, der du må ha både evne og vilje til å kunne tilpasse deg tett medisinsk oppfølging etterpå. • Transplantasjonen og den videre medisinske behandlingen kan innebære risiko for senkomplikasjoner og død, betinget både i redusert helse før hjertetransplantasjonen, og bivirkninger av den nødvendige medikamentelle behandlingen i etterkant. I utredningen legger vi vekt på din fremtidige samarbeidsevne og sykdomsinnsikt. På sikt forventes det også at du tar selvstendig ansvar for din tilstand og medikasjon. Du må være sterkt motivert. Er du i tvil om du vil gjennomgå en slik behandling, også etter samtale med kompetent personell, bør du avstå. Det er helt avgjørende at du er i stand til å følge anbefalinger og påbud nøye. Det gjelder både i forhold til medisiner, å møte opp til avtalt kontroll, lytte til råd som gis om forebygging av sykdom, og selv spørre om råd når usikkerhet oppstår. Den som utredes skal ha alvorlig hjertesvikt med forventet levetid på mindre enn 6-12 måneder når alle andre behandlingsformer er forsøkt eller funnet uaktuelle. Din hjertesvikt vil være i funksjonsklasse IV (III-IV); altså med symptomer i hvile eller ved den minste belastning. Vi kan bl.a. bedømme ditt funksjonsnivå ved å måle maksimalt oksygenopptak under sykkel- eller tredemøllebelasting. Denne testen er vårt viktigste hjelpemiddel for å forutsi den videre sykdomsutvikling og prognose, der et oksygenopptak under 10 ml/kg/min er en sterk indikasjon, mens 10-14 ml/kg/min utgjør en relativ indikasjon for transplantasjon. Dersom du har et opptak over 14 ml/kg/min oppfattes vanligvis dette til ikke å være lavt nok for å bli anbefalt en transplantasjon, og du vil være bedre tjent med å utsette denne. Hos hjertesviktiske pasienter som er vedvarende sengebundet med kontinuerlig intravenøs medikamenttilførsel, oftest med IABP (intra-aortal ballongpumpe) eller med andre tekniske hjelpemidler for å opprettholde hjertets pumpeevne, gjennomføres utredningen uten sykkel/tredemølletest med oksygenopptak.",
+          "qas": [
+            {
+              "id": "33b3eb5c-3e10-4295-bcb4-7ebdf9a8cc0e",
+              "question": "Hva er en sterk indikasjon for hjertetransplantasjon basert på oksygenopptak?",
+              "answers": [
+                {
+                  "answer_start": 1084,
+                  "text": "et oksygenopptak under 10 ml/kg/min"
+                }
+              ]
+            },
+            {
+              "id": "0f22b86f-3e71-45d6-9009-d9eac4cb42c8",
+              "question": "Hva vurderes i utredningen for hjertetransplantasjon?",
+              "answers": [
+                {
+                  "answer_start": 558,
+                  "text": "din fremtidige samarbeidsevne og sykdomsinnsikt"
+                }
+              ]
+            },
+            {
+              "id": "892d6c50-80a0-4204-a5e9-4decd2fcb2b3",
+              "question": "Hva er funksjonsklasse IV i hjertesvikt?",
+              "answers": [
+                {
+                  "answer_start": 829,
+                  "text": "symptomer i hvile eller ved den minste belastning"
+                }
+              ]
+            },
+            {
+              "id": "d9646bfb-99de-4a6d-8bbf-268dc31689cf",
+              "question": "Hvorfor er transplantasjon ikke en helbredelseskur?",
+              "answers": [
+                {
+                  "answer_start": 308,
+                  "text": "du må ha en livslang medikamentell behandling"
+                }
+              ]
+            },
+            {
+              "id": "5de1f566-b276-4ab2-8c6e-2c1542a04f59",
+              "question": "Når vurderes transplantasjon som uaktuelt basert på oksygenopptak?",
+              "answers": [
+                {
+                  "answer_start": 1176,
+                  "text": "opptak over 14 ml/kg/min"
+                }
+              ]
+            },
+            {
+              "id": "b26453fd-7398-4f8a-b1aa-13b67ae02fe0",
+              "question": "Hva er en forutsetning for å få tilbud om hjertetransplantasjon?",
+              "answers": [
+                {
+                  "answer_start": 794,
+                  "text": "forventet levetid på mindre enn 6-12 måneder når alle andre behandlingsformer er forsøkt"
+                }
+              ]
+            },
+            {
+              "id": "be9b7086-06be-487f-9365-5b5d07a54a3f",
+              "question": "Hvilken test brukes for å forutsi sykdomsutvikling og prognose ved hjertesvikt?",
+              "answers": [
+                {
+                  "answer_start": 935,
+                  "text": "maksimalt oksygenopptak under sykkel- eller tredemøllebelasting"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kontraindikasjoner mot hjertetransplantasjon",
+      "paragraphs": [
+        {
+          "context": "Hovedprinsippet er at hjertesviktpasienter som i tillegg har annen sykdom som kan forventes å ha dårligere prognose enn transplantasjon, ikke skal vurderes. Det samme gjelder når transplantasjon og immunsuppresjon vil påvirke annen sykdom slik at prognosen forverres. Høyt blodtrykk i lungekretsløpet, utbredt arteriosklerose (”åreforkalkning”), diabetes med organskader, nyre- eller leversvikt og andre kroniske systemsykdommer, er eksempler på sykdommer som i stor grad øker faren for komplikasjoner tidlig etter transplantasjonen. Tilstandene kan utgjøre relative eller absolutte kontraindikasjoner mot hjertetransplantasjon. I enkelte tilfeller kan også transplantasjon av flere organer samtidig vurderes. Kreftsykdom kan aktiveres av den immunsupprimerende behandlingen, men etter vellykket behandling og en lang periode uten tegn til tilbakefall, vurderes også slike hjertesviktpasienter individuelt. Det kan da være en mulighet for å gjennomgå en vellykket transplantasjon. Psykisk ustabilitet og alkohol-, medikament-, eller stoffmisbruk gir erfaringsmessig dårlig resultat, blant annet på grunn av redusert evne til adekvat samarbeid. Vi har følgelig nulltoleranse for avhengighet av narkotiske stoffer og medikamentmisbruk. Røyking øker faren for tidlige og sene komplikasjoner, både før og etter transplantasjonen. Røykeslutt forventes og forutsettes over en periode på minimum 6 måneder før utredning. Faren for komplikasjoner øker også ved betydelig overvekt og kan medføre avslag eller utsatt utredning til etter vektreduksjon. Høy alder vurderes individuelt, men de fleste transplantasjonssentre aksepterer sjelden pasienter over 65 år. Akutt kompliserende sykdom (for eksempel infeksjoner) må behandles ferdig, og med tilfredsstillende resultat, før transplantasjon kan overveies.",
+          "qas": [
+            {
+              "id": "004329c1-d7cd-4f1c-a40b-7f97d060b34f",
+              "question": "Hva er hovedprinsippet for kontraindikasjon ved hjertetransplantasjon?",
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "hjertesviktpasienter som i tillegg har annen sykdom som kan forventes å ha dårligere prognose enn transplantasjon, ikke skal vurderes"
+                }
+              ]
+            },
+            {
+              "id": "0dd91f62-f0cf-4566-bac4-2dcf6dc88ce4",
+              "question": "Nevn tre sykdommer som kan gi økt risiko for komplikasjoner etter hjertetransplantasjon.",
+              "answers": [
+                {
+                  "answer_start": 265,
+                  "text": "Høyt blodtrykk i lungekretsløpet, utbredt arteriosklerose, diabetes med organskader"
+                }
+              ]
+            },
+            {
+              "id": "ff70a1e0-96e7-4f6a-9f55-df2632f8b95b",
+              "question": "Hva er policyen for pasienter med narkotikamisbruk i forbindelse med hjertetransplantasjon?",
+              "answers": [
+                {
+                  "answer_start": 694,
+                  "text": "nulltoleranse for avhengighet av narkotiske stoffer og medikamentmisbruk"
+                }
+              ]
+            },
+            {
+              "id": "d67a5c0e-1ee8-4398-8572-fabf3a62147e",
+              "question": "Hva må pasienter gjøre før utredning dersom de røyker?",
+              "answers": [
+                {
+                  "answer_start": 762,
+                  "text": "Røykeslutt forventes og forutsettes over en periode på minimum 6 måneder før utredning"
+                }
+              ]
+            },
+            {
+              "id": "63e6a6ab-5b91-44e7-b21a-53705ac70d88",
+              "question": "Hva vurderes individuelt i forbindelse med høy alder ved transplantasjon?",
+              "answers": [
+                {
+                  "answer_start": 880,
+                  "text": "de fleste transplantasjonssentre aksepterer sjelden pasienter over 65 år"
+                }
+              ]
+            },
+            {
+              "id": "fe4d57db-3837-4973-8a3d-444e8e034d26",
+              "question": "Når kan kreftpasienter likevel vurderes for hjertetransplantasjon?",
+              "answers": [
+                {
+                  "answer_start": 458,
+                  "text": "etter vellykket behandling og en lang periode uten tegn til tilbakefall"
+                }
+              ]
+            },
+            {
+              "id": "b2cd7747-d6ee-42b1-8c5e-3ce2d9dd7e0d",
+              "question": "Hva må gjøres før transplantasjon dersom pasienten har en akutt sykdom som infeksjon?",
+              "answers": [
+                {
+                  "answer_start": 946,
+                  "text": "må behandles ferdig, og med tilfredsstillende resultat"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+]
+}

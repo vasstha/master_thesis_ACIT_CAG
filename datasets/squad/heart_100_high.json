@@ -1,0 +1,1149 @@
+{
+  "data": [
+    {
+      "title": "Hjertetransplantasjon_grunnleggende_informasjon",
+      "paragraphs": [
+        {
+          "context": "Hjertesvikt er en tilstand der hjertet ikke klarer å pumpe tilstrekkelig med blod for å tilfredsstille kroppens behov. Til å begynne med vil symptomer oftest melde seg under anstrengelser. Hovedsymptomet ved hjertesvikt er tung pust, og ved forverring skal det mindre til for å bli tung i pusten. Tilleggssymptomer som slapphet og tretthet dominerer stadig mer av hverdagen. Væske kan hope seg opp i kroppen og ses gjerne først rundt anklene, samtidig som vekten øker og man føler seg stinn i magen. Hovedårsaken til hjertesvikt blant de som har blitt hjertetransplantert i Norge er kransarteriesykdom og muskelsykdom i hjertet som benevnes kardiomyopati.",
+          "qas": [
+            {
+              "question": "Hva er hjertesvikt?",
+              "id": "hjerte_001",
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Hjertesvikt er en tilstand der hjertet ikke klarer å pumpe tilstrekkelig med blod for å tilfredsstille kroppens behov."
+                }
+              ]
+            },
+            {
+              "question": "Når melder symptomene på hjertesvikt seg først?",
+              "id": "hjerte_002",
+              "answers": [
+                {
+                  "answer_start": 91,
+                  "text": "Til å begynne med vil symptomer oftest melde seg under anstrengelser."
+                }
+              ]
+            },
+            {
+              "question": "Hva er hovedsymptomet ved hjertesvikt?",
+              "id": "hjerte_003",
+              "answers": [
+                {
+                  "answer_start": 201,
+                  "text": "Hovedsymptomet ved hjertesvikt er tung pust."
+                }
+              ]
+            },
+            {
+              "question": "Hvilke tilleggssymptomer kommer ved forverring av hjertesvikt?",
+              "id": "hjerte_004",
+              "answers": [
+                {
+                  "answer_start": 291,
+                  "text": "Tilleggssymptomer som slapphet og tretthet dominerer stadig mer av hverdagen."
+                }
+              ]
+            },
+            {
+              "question": "Hvor i kroppen ses væskeopphopning først?",
+              "id": "hjerte_005",
+              "answers": [
+                {
+                  "answer_start": 401,
+                  "text": "Væske kan hope seg opp i kroppen og ses gjerne først rundt anklene."
+                }
+              ]
+            },
+            {
+              "question": "Hvilke kroppslige forandringer skjer ved væskeopphopning?",
+              "id": "hjerte_006",
+              "answers": [
+                {
+                  "answer_start": 469,
+                  "text": "Vekten øker og man føler seg stinn i magen når væske hoper seg opp i kroppen."
+                }
+              ]
+            },
+            {
+              "question": "Hva er hovedårsaken til hjertesvikt i Norge?",
+              "id": "hjerte_007",
+              "answers": [
+                {
+                  "answer_start": 537,
+                  "text": "Hovedårsaken til hjertesvikt blant de som har blitt hjertetransplantert i Norge er kransarteriesykdom."
+                }
+              ]
+            },
+            {
+              "question": "Hva kalles muskelsykdom i hjertet?",
+              "id": "hjerte_008",
+              "answers": [
+                {
+                  "answer_start": 671,
+                  "text": "Muskelsykdom i hjertet benevnes kardiomyopati."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Den første hjertetransplantasjonen i Norge ble utført av Tor Frøysaker og medarbeidere ved Rikshospitalet i Oslo i 1983. I 1980 tok Norman E. Shumway ved Stanford University i bruk et nytt medikament, cyklosporin, for å forhindre avstøtning av det transplanterte organet. Da erfaringene med denne nye formen for immunsuppresjon viste at 80 % av pasientene var i live etter 2 år, mente Rikshospitalet at det var berettiget å tilby behandlingsformen i Norge. De siste 10-15 år har vi utført ca. 30-35 hjertetransplantasjoner i Norge per år. I oktober 2016 hadde vi utført over 880 hjertetransplantasjoner i Norge.",
+          "qas": [
+            {
+              "question": "Hvem utførte den første hjertetransplantasjonen i Norge?",
+              "id": "historie_001",
+              "answers": [
+                {
+                  "answer_start": 58,
+                  "text": "Tor Frøysaker og medarbeidere ved Rikshospitalet utførte den første hjertetransplantasjonen i Norge."
+                }
+              ]
+            },
+            {
+              "question": "Når ble den første hjertetransplantasjonen utført i Norge?",
+              "id": "historie_002",
+              "answers": [
+                {
+                  "answer_start": 120,
+                  "text": "Den første hjertetransplantasjonen i Norge ble utført i 1983."
+                }
+              ]
+            },
+            {
+              "question": "Hvem utviklet medikamentet cyklosporin?",
+              "id": "historie_003",
+              "answers": [
+                {
+                  "answer_start": 139,
+                  "text": "Norman E. Shumway ved Stanford University tok i bruk medikamentet cyklosporin i 1980."
+                }
+              ]
+            },
+            {
+              "question": "Hva er formålet med cyklosporin?",
+              "id": "historie_004",
+              "answers": [
+                {
+                  "answer_start": 225,
+                  "text": "Cyklosporin brukes for å forhindre avstøtning av det transplanterte organet."
+                }
+              ]
+            },
+            {
+              "question": "Hvor mange pasienter overlevde etter 2 år med den nye immunsuppresjonen?",
+              "id": "historie_005",
+              "answers": [
+                {
+                  "answer_start": 344,
+                  "text": "80 % av pasientene var i live etter 2 år med den nye immunsuppresjonen."
+                }
+              ]
+            },
+            {
+              "question": "Hvor mange hjertetransplantasjoner utføres årlig i Norge?",
+              "id": "historie_006",
+              "answers": [
+                {
+                  "answer_start": 495,
+                  "text": "De siste 10-15 år har vi utført ca. 30-35 hjertetransplantasjoner i Norge per år."
+                }
+              ]
+            },
+            {
+              "question": "Hvor mange hjertetransplantasjoner var utført i Norge innen oktober 2016?",
+              "id": "historie_007",
+              "answers": [
+                {
+                  "answer_start": 579,
+                  "text": "I oktober 2016 hadde vi utført over 880 hjertetransplantasjoner i Norge."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Medisinske vurderinger for hvem som trenger hjertetransplantasjon kan variere noe fra land til land og fra senter til senter, men 3 grunnleggende retningslinjer gjelder over alt. For det første må organet anvendes på best mulig måte på grunn av mangel på donorer. For det andre er operasjonen ingen helbredelseskur og krever livslang medikamentell behandling med tett medisinsk oppfølging. For det tredje kan transplantasjonen innebære risiko for senkomplikasjoner og død. I utredningen legger vi vekt på din fremtidige samarbeidsevne og sykdomsinnsikt, og du må være sterkt motivert for behandlingen.",
+          "qas": [
+            {
+              "question": "Hvor mange grunnleggende retningslinjer gjelder for hjertetransplantasjon?",
+              "id": "retningslinjer_001",
+              "answers": [
+                {
+                  "answer_start": 129,
+                  "text": "3 grunnleggende retningslinjer gjelder for hjertetransplantasjon over alt."
+                }
+              ]
+            },
+            {
+              "question": "Hvorfor må donororganer anvendes på best mulig måte?",
+              "id": "retningslinjer_002",
+              "answers": [
+                {
+                  "answer_start": 204,
+                  "text": "Organet må anvendes på best mulig måte på grunn av mangel på donorer."
+                }
+              ]
+            },
+            {
+              "question": "Er hjertetransplantasjon en helbredelseskur?",
+              "id": "retningslinjer_003",
+              "answers": [
+                {
+                  "answer_start": 300,
+                  "text": "Operasjonen er ingen helbredelseskur og krever livslang medikamentell behandling med tett medisinsk oppfølging."
+                }
+              ]
+            },
+            {
+              "question": "Hvilke risikoer kan transplantasjonen innebære?",
+              "id": "retningslinjer_004",
+              "answers": [
+                {
+                  "answer_start": 444,
+                  "text": "Transplantasjonen kan innebære risiko for senkomplikasjoner og død."
+                }
+              ]
+            },
+            {
+              "question": "Hva legger man vekt på i utredningen av pasienter?",
+              "id": "retningslinjer_005",
+              "answers": [
+                {
+                  "answer_start": 513,
+                  "text": "I utredningen legger vi vekt på din fremtidige samarbeidsevne og sykdomsinnsikt."
+                }
+              ]
+            },
+            {
+              "question": "Hvilken holdning må pasienten ha til behandlingen?",
+              "id": "retningslinjer_006",
+              "answers": [
+                {
+                  "answer_start": 595,
+                  "text": "Du må være sterkt motivert for behandlingen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Den som utredes skal ha alvorlig hjertesvikt med forventet levetid på mindre enn 6-12 måneder når alle andre behandlingsformer er forsøkt eller funnet uaktuelle. Din hjertesvikt vil være i funksjonsklasse IV (III-IV) med symptomer i hvile eller ved den minste belastning. Vi kan bedømme ditt funksjonsnivå ved å måle maksimalt oksygenopptak under sykkel- eller tredemøllebelasting. Et oksygenopptak under 10 ml/kg/min er en sterk indikasjon, mens 10-14 ml/kg/min utgjør en relativ indikasjon for transplantasjon. Dersom du har et opptak over 14 ml/kg/min oppfattes dette til ikke å være lavt nok for å bli anbefalt en transplantasjon.",
+          "qas": [
+            {
+              "question": "Hvilken forventet levetid skal pasienter ha for å vurderes til transplantasjon?",
+              "id": "kriterier_001",
+              "answers": [
+                {
+                  "answer_start": 56,
+                  "text": "Pasienter skal ha forventet levetid på mindre enn 6-12 måneder for å vurderes til transplantasjon."
+                }
+              ]
+            },
+            {
+              "question": "I hvilken funksjonsklasse skal hjertesvikten være?",
+              "id": "kriterier_002",
+              "answers": [
+                {
+                  "answer_start": 181,
+                  "text": "Hjertesvikten vil være i funksjonsklasse IV (III-IV) med symptomer i hvile eller ved den minste belastning."
+                }
+              ]
+            },
+            {
+              "question": "Hvordan måles pasientens funksjonsnivå?",
+              "id": "kriterier_003",
+              "answers": [
+                {
+                  "answer_start": 322,
+                  "text": "Funksjonsnivået måles ved maksimalt oksygenopptak under sykkel- eller tredemøllebelasting."
+                }
+              ]
+            },
+            {
+              "question": "Hvilket oksygenopptak gir sterk indikasjon for transplantasjon?",
+              "id": "kriterier_004",
+              "answers": [
+                {
+                  "answer_start": 414,
+                  "text": "Et oksygenopptak under 10 ml/kg/min er en sterk indikasjon for transplantasjon."
+                }
+              ]
+            },
+            {
+              "question": "Hva utgjør en relativ indikasjon for transplantasjon?",
+              "id": "kriterier_005",
+              "answers": [
+                {
+                  "answer_start": 500,
+                  "text": "10-14 ml/kg/min utgjør en relativ indikasjon for transplantasjon."
+                }
+              ]
+            },
+            {
+              "question": "Når er oksygenopptaket for høyt for å anbefale transplantasjon?",
+              "id": "kriterier_006",
+              "answers": [
+                {
+                  "answer_start": 566,
+                  "text": "Et opptak over 14 ml/kg/min oppfattes til ikke å være lavt nok for å bli anbefalt en transplantasjon."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Hovedprinsippet for kontraindikasjoner er at hjertesviktpasienter som i tillegg har annen sykdom som kan forventes å ha dårligere prognose enn transplantasjon, ikke skal vurderes. Høyt blodtrykk i lungekretsløpet, utbredt arteriosklerose, diabetes med organskader, nyre- eller leversvikt og andre kroniske systemsykdommer er eksempler på tilstander som øker faren for komplikasjoner. Kreftsykdom kan aktiveres av immunsupprimerende behandling, men etter vellykket behandling og lang periode uten tegn til tilbakefall vurderes slike pasienter individuelt. Psykisk ustabilitet og rusmisbruk gir erfaringsmessig dårlig resultat på grunn av redusert evne til adekvat samarbeid.",
+          "qas": [
+            {
+              "question": "Hva er hovedprinsippet for kontraindikasjoner mot transplantasjon?",
+              "id": "kontra_001",
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Hjertesviktpasienter som har annen sykdom med dårligere prognose enn transplantasjon skal ikke vurderes."
+                }
+              ]
+            },
+            {
+              "question": "Hvilke tilstander øker faren for komplikasjoner etter transplantasjon?",
+              "id": "kontra_002",
+              "answers": [
+                {
+                  "answer_start": 186,
+                  "text": "Høyt blodtrykk i lungekretsløpet, utbredt arteriosklerose, diabetes med organskader, nyre- eller leversvikt og kroniske systemsykdommer øker faren for komplikasjoner."
+                }
+              ]
+            },
+            {
+              "question": "Hvordan påvirker immunsupprimerende behandling kreftsykdom?",
+              "id": "kontra_003",
+              "answers": [
+                {
+                  "answer_start": 381,
+                  "text": "Kreftsykdom kan aktiveres av immunsupprimerende behandling."
+                }
+              ]
+            },
+            {
+              "question": "Når kan tidligere kreftpasienter vurderes for transplantasjon?",
+              "id": "kontra_004",
+              "answers": [
+                {
+                  "answer_start": 457,
+                  "text": "Etter vellykket behandling og lang periode uten tegn til tilbakefall vurderes slike pasienter individuelt."
+                }
+              ]
+            },
+            {
+              "question": "Hvorfor gir psykisk ustabilitet og rusmisbruk dårlig resultat?",
+              "id": "kontra_005",
+              "answers": [
+                {
+                  "answer_start": 624,
+                  "text": "Psykisk ustabilitet og rusmisbruk gir dårlig resultat på grunn av redusert evne til adekvat samarbeid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Når et donorhjerte blir tilgjengelig har vi ingen tid å miste. Du må derfor være tilgjengelig på telefon til enhver tid, enten på fasttelefon eller mobiltelefon. Du må alltid ha med deg mobiltelefonen når du forlater hjemmet og pass på at den er slått på, at den er ladet, og at du har mobildekning der du oppholder deg. Vi har notert både ditt og dine nærmeste pårørendes telefonnummer, slik at vi har flere muligheter til å nå deg. Ventetiden kan variere fra dager til flere måneder, og du må være forberedt på å kunne reise på kort varsel når som helst på døgnet.",
+          "qas": [
+            {
+              "question": "Hvorfor må pasienten være tilgjengelig på telefon til enhver tid?",
+              "id": "ventetid_001",
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Når et donorhjerte blir tilgjengelig har vi ingen tid å miste, derfor må pasienten være tilgjengelig på telefon."
+                }
+              ]
+            },
+            {
+              "question": "Hva må pasienten alltid ha med seg når de forlater hjemmet?",
+              "id": "ventetid_002",
+              "answers": [
+                {
+                  "answer_start": 153,
+                  "text": "Du må alltid ha med deg mobiltelefonen når du forlater hjemmet."
+                }
+              ]
+            },
+            {
+              "question": "Hva må pasienten passe på angående mobiltelefonen?",
+              "id": "ventetid_003",
+              "answers": [
+                {
+                  "answer_start": 218,
+                  "text": "Pass på at mobiltelefonen er slått på, at den er ladet, og at du har mobildekning der du oppholder deg."
+                }
+              ]
+            },
+            {
+              "question": "Hvis telefonnumre har sykehuset notert?",
+              "id": "ventetid_004",
+              "answers": [
+                {
+                  "answer_start": 324,
+                  "text": "Vi har notert både ditt og dine nærmeste pårørendes telefonnummer for å ha flere muligheter til å nå deg."
+                }
+              ]
+            },
+            {
+              "question": "Hvor lenge kan ventetiden på donorhjerte vare?",
+              "id": "ventetid_005",
+              "answers": [
+                {
+                  "answer_start": 441,
+                  "text": "Ventetiden kan variere fra dager til flere måneder."
+                }
+              ]
+            },
+            {
+              "question": "Når må pasienten være forberedt på å reise?",
+              "id": "ventetid_006",
+              "answers": [
+                {
+                  "answer_start": 494,
+                  "text": "Du må være forberedt på å kunne reise på kort varsel når som helst på døgnet."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAD_beredskap_prosedyrer",
+      "paragraphs": [
+        {
+          "context": "KAD forvakt (26730) mottar varsling fra ansvarshavende sykepleier KIO, eller KADS ved intern hendelse eller ulykke. Forvakten skal varsle videre til kardiologisk bakvakt (26731), avdelingsleder KAD (73671), og vurdere sammen med bakvakt/avdelingsleder om KAD seksjonsledere skal varsles. Møtestedet er KIO scopsentral, E4, 4. etasje. Forvakten fungerer som kriseleder på KAD i samarbeid med ansvarshavende sykepleier på KIO til bakvakt eller avdelingsleder/stedfortreder er på plass. Forvakten skal kartlegge sammen med ansvarshavende sykepleier KIO/KADS hvilke inneliggende pasienter som kan overflyttes eller utskrives.",
+          "qas": [
+            {
+              "question": "Hvilke telefonnummer har KAD forvakt?",
+              "id": "forvakt_001",
+              "answers": [
+                {
+                  "answer_start": 12,
+                  "text": "KAD forvakt har telefonnummer 26730."
+                }
+              ]
+            },
+            {
+              "question": "Hvem varsler KAD forvakt?",
+              "id": "forvakt_002",
+              "answers": [
+                {
+                  "answer_start": 42,
+                  "text": "KAD forvakt mottar varsling fra ansvarshavende sykepleier KIO, eller KADS ved intern hendelse eller ulykke."
+                }
+              ]
+            },
+            {
+              "question": "Hvilket telefonnummer har kardiologisk bakvakt?",
+              "id": "forvakt_003",
+              "answers": [
+                {
+                  "answer_start": 172,
+                  "text": "Kardiologisk bakvakt har telefonnummer 26731."
+                }
+              ]
+            },
+            {
+              "question": "Hvilket telefonnummer har avdelingsleder KAD?",
+              "id": "forvakt_004",
+              "answers": [
+                {
+                  "answer_start": 202,
+                  "text": "Avdelingsleder KAD har telefonnummer 73671."
+                }
+              ]
+            },
+            {
+              "question": "Hvor er møtestedet for beredskap på KAD?",
+              "id": "forvakt_005",
+              "answers": [
+                {
+                  "answer_start": 295,
+                  "text": "Møtestedet er KIO scopsentral, E4, 4. etasje."
+                }
+              ]
+            },
+            {
+              "question": "Hvem fungerer forvakten som kriseleder sammen med?",
+              "id": "forvakt_006",
+              "answers": [
+                {
+                  "answer_start": 342,
+                  "text": "Forvakten fungerer som kriseleder på KAD i samarbeid med ansvarshavende sykepleier på KIO."
+                }
+              ]
+            },
+            {
+              "question": "Når slutter forvakten å fungere som kriseleder?",
+              "id": "forvakt_007",
+              "answers": [
+                {
+                  "answer_start": 434,
+                  "text": "Forvakten fungerer som kriseleder til bakvakt eller avdelingsleder/stedfortreder er på plass."
+                }
+              ]
+            },
+            {
+              "question": "Hva skal forvakten kartlegge sammen med ansvarshavende sykepleier?",
+              "id": "forvakt_008",
+              "answers": [
+                {
+                  "answer_start": 568,
+                  "text": "Forvakten skal kartlegge hvilke inneliggende pasienter på KIO og KADS som kan overflyttes eller utskrives."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "KAD bakvakt (26731) mottar varsling fra forvakt (26730) og skal ikke varsle videre til noen. Bakvakten fungerer som kriseleder på KAD til avdelingsleder eller stedfortreder er på plass, og koordinerer pasienter som fordeles til KAD grunnet beredskap. KAD bakvaktens hovedoppgaver under beredskap inkluderer å fungere som kriseleder, overta forvakt sin deltakelse i ekstraordinært driftsmøte hvis forvakt får innkallelse, få oppdatert informasjon fra forvakt og ansvarshavende sykepleier KIO om pasientbelegg, utpeke ansvarlig lege for KADS og KIO, og kalle inn legepersonell ved behov for mobilisering.",
+          "qas": [
+            {
+              "question": "Hvilket telefonnummer har KAD bakvakt?",
+              "id": "bakvakt_001",
+              "answers": [
+                {
+                  "answer_start": 12,
+                  "text": "KAD bakvakt har telefonnummer 26731."
+                }
+              ]
+            },
+            {
+              "question": "Hvem mottar KAD bakvakt varsling fra?",
+              "id": "bakvakt_002",
+              "answers": [
+                {
+                  "answer_start": 33,
+                  "text": "KAD bakvakt mottar varsling fra forvakt (26730)."
+                }
+              ]
+            },
+            {
+              "question": "Skal KAD bakvakt varsle videre til noen?",
+              "id": "bakvakt_003",
+              "answers": [
+                {
+                  "answer_start": 83,
+                  "text": "KAD bakvakt skal ikke varsle videre til noen."
+                }
+              ]
+            },
+            {
+              "question": "Hva koordinerer bakvakten under beredskap?",
+              "id": "bakvakt_004",
+              "answers": [
+                {
+                  "answer_start": 191,
+                  "text": "Bakvakten koordinerer pasienter som fordeles til KAD grunnet beredskap."
+                }
+              ]
+            },
+            {
+              "question": "Hva skal bakvakten gjøre hvis forvakt får innkallelse til driftsmøte?",
+              "id": "bakvakt_005",
+              "answers": [
+                {
+                  "answer_start": 353,
+                  "text": "Bakvakten skal overta forvakt sin deltakelse i ekstraordinært driftsmøte hvis forvakt får innkallelse."
+                }
+              ]
+            },
+            {
+              "question": "Hvem skal bakvakten utpeke som ansvarlig lege?",
+              "id": "bakvakt_006",
+              "answers": [
+                {
+                  "answer_start": 540,
+                  "text": "Bakvakten skal utpeke ansvarlig lege for KADS og KIO."
+                }
+              ]
+            },
+            {
+              "question": "Når kan bakvakten kalle inn legepersonell?",
+              "id": "bakvakt_007",
+              "answers": [
+                {
+                  "answer_start": 595,
+                  "text": "Bakvakten kan kalle inn legepersonell ved behov for mobilisering."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "KAD forvakt rapporterer til bakvakt frem til avdelingsleder/stedfortreder er på plass. Ved ekstraordinært driftsmøte rapporteres det i tillegg til akuttklinikkens stedlige koordinator eller vaktleder (26708). KAD bakvakt rapporterer til avdelingsleder/stedfortreder, som er en del av klinikkens kriseledelse. Forvakten får calling til beredskapsledelse - initial koordinering Rikshospitalet (dok.id. 84724). Dokumentene for KAD beredskap ble sist revidert i oktober 2024 da beredskapsplanen ble revidert, og er godkjent av Lars Aaberge som en del av fagrådet for kardiologisk avdeling ved Hjerte, lunge- og karklinikken (HLK).",
+          "qas": [
+            {
+              "question": "Hvem rapporterer KAD forvakt til initialt?",
+              "id": "rapportering_001",
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "KAD forvakt rapporterer til bakvakt frem til avdelingsleder/stedfortreder er på plass."
+                }
+              ]
+            },
+            {
+              "question": "Hvilket telefonnummer har akuttklinikkens vaktleder?",
+              "id": "rapportering_002",
+              "answers": [
+                {
+                  "answer_start": 201,
+                  "text": "Akuttklinikkens vaktleder har telefonnummer 26708."
+                }
+              ]
+            },
+            {
+              "question": "Hvem rapporterer KAD bakvakt til?",
+              "id": "rapportering_003",
+              "answers": [
+                {
+                  "answer_start": 214,
+                  "text": "KAD bakvakt rapporterer til avdelingsleder/stedfortreder, som er en del av klinikkens kriseledelse."
+                }
+              ]
+            },
+            {
+              "question": "Hvilket dokument-ID har beredskapsledelse - initial koordinering?",
+              "id": "rapportering_004",
+              "answers": [
+                {
+                  "answer_start": 397,
+                  "text": "Beredskapsledelse - initial koordinering Rikshospitalet har dok.id. 84724."
+                }
+              ]
+            },
+            {
+              "question": "Når ble beredskapsdokumentene sist revidert?",
+              "id": "rapportering_005",
+              "answers": [
+                {
+                  "answer_start": 461,
+                  "text": "Dokumentene for KAD beredskap ble sist revidert i oktober 2024."
+                }
+              ]
+            },
+            {
+              "question": "Hvem har godkjent beredskapsdokumentene?",
+              "id": "rapportering_006",
+              "answers": [
+                {
+                  "answer_start": 535,
+                  "text": "Dokumentene er godkjent av Lars Aaberge som en del av fagrådet for kardiologisk avdeling."
+                }
+              ]
+            },
+            {
+              "question": "Hvilken klinikk tilhører kardiologisk avdeling?",
+              "id": "rapportering_007",
+              "answers": [
+                {
+                  "answer_start": 590,
+                  "text": "Kardiologisk avdeling tilhører Hjerte, lunge- og karklinikken (HLK)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Utredning_og_undersøkelser",
+      "paragraphs": [
+        {
+          "context": "Utredningen til hjertetransplantasjon inkluderer mange ulike undersøkelser som har til hensikt å bekrefte eller avkrefte at en hjertetransplantasjon er nødvendig og tilrådelig. Hovedspørsmålene som stilles er: Er du dårlig nok til at en transplantasjon er tilrådelig? Foreligger det noen kontraindikasjoner mot transplantasjon? Er du tilstrekkelig motivert og innforstått med ditt ansvar til å følge opp det omfattende regimet i etterkant av transplantasjonen? Den første orienteringen foregår som regel ved en samtale med legen og deretter med sykepleier, der vi kartlegger din situasjon, dine symptomer og din livssituasjon forøvrig.",
+          "qas": [
+            {
+              "question": "Hva er hensikten med utredningen til hjertetransplantasjon?",
+              "id": "utredning_001",
+              "answers": [
+                {
+                  "answer_start": 95,
+                  "text": "Utredningen har til hensikt å bekrefte eller avkrefte at en hjertetransplantasjon er nødvendig og tilrådelig."
+                }
+              ]
+            },
+            {
+              "question": "Hvor mange hovedspørsmål stilles i utredningen?",
+              "id": "utredning_002",
+              "answers": [
+                {
+                  "answer_start": 207,
+                  "text": "Tre hovedspørsmål stilles i utredningen til hjertetransplantasjon."
+                }
+              ]
+            },
+            {
+              "question": "Hva er det første hovedspørsmålet i utredningen?",
+              "id": "utredning_003",
+              "answers": [
+                {
+                  "answer_start": 235,
+                  "text": "Er du dårlig nok til at en transplantasjon er tilrådelig?"
+                }
+              ]
+            },
+            {
+              "question": "Hva kartlegges i samtalen med legen og sykepleier?",
+              "id": "utredning_004",
+              "answers": [
+                {
+                  "answer_start": 579,
+                  "text": "Vi kartlegger din situasjon, dine symptomer og din livssituasjon forøvrig."
+                }
+              ]
+            },
+            {
+              "question": "Hvorfor er motivasjon viktig i utredningen?",
+              "id": "utredning_005",
+              "answers": [
+                {
+                  "answer_start": 386,
+                  "text": "Du må være tilstrekkelig motivert og innforstått med ditt ansvar til å følge opp det omfattende regimet i etterkant av transplantasjonen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Arbeidstest med surstoff-opptak er vårt viktigste hjelpemiddel for å forutsi den videre sykdomsutvikling og prognose. Din funksjonsevne og alvorlighetsgrad av hjertesvikt kan testes ved arbeidsbelastning på sykkel eller tredemølle med samtidig opptak av surstoff (oksygen). Undersøkelsen foregår på en ergometersykkel eller tredemølle, og vi kan øke belastningen mens du sykler eller går. Du får en maske over nese og munn som du puster gjennom, og luften som du puster ut analyseres automatisk. For at testen skal gi tilstrekkelig informasjon er det viktig at du anstrenger deg til det ytterste og ikke gir deg før du absolutt ikke orker mer.",
+          "qas": [
+            {
+              "question": "Hva er vårt viktigste hjelpemiddel for å forutsi sykdomsutvikling?",
+              "id": "arbeidstest_001",
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Arbeidstest med surstoff-opptak er vårt viktigste hjelpemiddel for å forutsi den videre sykdomsutvikling og prognose."
+                }
+              ]
+            },
+            {
+              "question": "Hvordan testes funksjonsevne og alvorlighetsgrad av hjertesvikt?",
+              "id": "arbeidstest_002",
+              "answers": [
+                {
+                  "answer_start": 148,
+                  "text": "Funksjonsevne testes ved arbeidsbelastning på sykkel eller tredemølle med samtidig opptak av surstoff."
+                }
+              ]
+            },
+            {
+              "question": "Hvor foregår undersøkelsen med oksygenopptak?",
+              "id": "arbeidstest_003",
+              "answers": [
+                {
+                  "answer_start": 284,
+                  "text": "Undersøkelsen foregår på en ergometersykkel eller tredemølle."
+                }
+              ]
+            },
+            {
+              "question": "Hva får pasienten over nese og munn under testen?",
+              "id": "arbeidstest_004",
+              "answers": [
+                {
+                  "answer_start": 395,
+                  "text": "Du får en maske over nese og munn som du puster gjennom."
+                }
+              ]
+            },
+            {
+              "question": "Hvordan analyseres utåndingsluften?",
+              "id": "arbeidstest_005",
+              "answers": [
+                {
+                  "answer_start": 453,
+                  "text": "Luften som du puster ut analyseres automatisk."
+                }
+              ]
+            },
+            {
+              "question": "Hvor mye må pasienten anstrenge seg under testen?",
+              "id": "arbeidstest_006",
+              "answers": [
+                {
+                  "answer_start": 571,
+                  "text": "Du må anstrenge deg til det ytterste og ikke gi deg før du absolutt ikke orker mer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Venstresidig hjertekateterisering med fremstilling av hjertets kransårer har som hensikt å undersøke blodårene som forsyner hjertemuskelen med blod. Undersøkelsen gjøres også for å vurdere funksjonen av hjertekammeret og blodårenes anatomi, for å se om du kan behandles kirurgisk på annen måte enn med transplantasjon. Du ligger på et undersøkelsesbord og undersøkelsen foregår i lokalbedøvelse. Stort sett blir undersøkelsen foretatt fra håndleddet, men noen ganger fra lysken. I begge tilfeller setter legen lokalbedøvelse med en sprøyte ved innstikkstedet, og fører et tynt rør (kateter) inn i en pulsåre under røntgengjennomlysning.",
+          "qas": [
+            {
+              "question": "Hva er hensikten med venstresidig hjertekateterisering?",
+              "id": "kateter_001",
+              "answers": [
+                {
+                  "answer_start": 79,
+                  "text": "Hensikten er å undersøke blodårene som forsyner hjertemuskelen med blod."
+                }
+              ]
+            },
+            {
+              "question": "Hvorfor vurderes hjertekammerets funksjon under undersøkelsen?",
+              "id": "kateter_002",
+              "answers": [
+                {
+                  "answer_start": 219,
+                  "text": "For å se om du kan behandles kirurgisk på annen måte enn med transplantasjon."
+                }
+              ]
+            },
+            {
+              "question": "Hvilken type bedøvelse brukes under hjertekateterisering?",
+              "id": "kateter_003",
+              "answers": [
+                {
+                  "answer_start": 366,
+                  "text": "Undersøkelsen foregår i lokalbedøvelse."
+                }
+              ]
+            },
+            {
+              "question": "Hvor blir undersøkelsen stort sett foretatt fra?",
+              "id": "kateter_004",
+              "answers": [
+                {
+                  "answer_start": 407,
+                  "text": "Stort sett blir undersøkelsen foretatt fra håndleddet, men noen ganger fra lysken."
+                }
+              ]
+            },
+            {
+              "question": "Hva fører legen inn i pulsåren?",
+              "id": "kateter_005",
+              "answers": [
+                {
+                  "answer_start": 572,
+                  "text": "Legen fører et tynt rør (kateter) inn i en pulsåre."
+                }
+              ]
+            },
+            {
+              "question": "Under hvilken form for overvåking foregår prosedyren?",
+              "id": "kateter_006",
+              "answers": [
+                {
+                  "answer_start": 625,
+                  "text": "Prosedyren foregår under røntgengjennomlysning."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Høyresidig hjertekateterisering har som hensikt å undersøke trykkforholdene i blodåren som går fra høyre hjertekammer til lungen (lungepulsåren). Du undersøkes via en vene, oftest fra halsen, men av og til fra lysken. I begge tilfellene føres et tynt kateter via blodåren til høyre forkammer i hjertet, videre til høyre hjertekammer og deretter ut i lungepulsåren. Underveis tar vi blodprøver og måler trykk gjennom kateteret. Til slutt måler vi hvor mye blod hjertet ditt pumper per minutt ved å sprøyte inn en liten mengde kaldt vann gjennom kateteret og via elektronisk måling av temperaturforskjeller får vi svaret ut på en maskin.",
+          "qas": [
+            {
+              "question": "Hva undersøkes med høyresidig hjertekateterisering?",
+              "id": "hoyre_kateter_001",
+              "answers": [
+                {
+                  "answer_start": 60,
+                  "text": "Vi undersøker trykkforholdene i blodåren som går fra høyre hjertekammer til lungen (lungepulsåren)."
+                }
+              ]
+            },
+            {
+              "question": "Via hvilken type blodåre undersøkes pasienten?",
+              "id": "hoyre_kateter_002",
+              "answers": [
+                {
+                  "answer_start": 161,
+                  "text": "Du undersøkes via en vene, oftest fra halsen, men av og til fra lysken."
+                }
+              ]
+            },
+            {
+              "question": "Hvor føres kateteret først hen i hjertet?",
+              "id": "hoyre_kateter_003",
+              "answers": [
+                {
+                  "answer_start": 280,
+                  "text": "Kateteret føres først til høyre forkammer i hjertet."
+                }
+              ]
+            },
+            {
+              "question": "Hva måles underveis under undersøkelsen?",
+              "id": "hoyre_kateter_004",
+              "answers": [
+                {
+                  "answer_start": 378,
+                  "text": "Underveis tar vi blodprøver og måler trykk gjennom kateteret."
+                }
+              ]
+            },
+            {
+              "question": "Hvordan måles hjertets pumpevolum per minutt?",
+              "id": "hoyre_kateter_005",
+              "answers": [
+                {
+                  "answer_start": 485,
+                  "text": "Vi sprøyter inn kaldt vann gjennom kateteret og måler temperaturforskjeller elektronisk."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Blodprøver, urinprøver og avføringsprøver tas rutinemessig som del av utredningen. Hensikten med blodprøvene er å avdekke sykdom som er av betydning for transplantasjon, spesielt blodmangel, høy blodsenkning, tegn på infeksjon eller tegn til åreforkalkning, nyre- eller leversykdom, sukkersyke eller stoffskifteysykdom. Urinen undersøkes først og fremst med tanke på tegn til nyresykdom eller infeksjon. Det tas avføringsprøver for å undersøke om det er forekomst av blod, noe som kan være uttrykk for magesår eller svulster. Dersom vi finner feil med noen av disse prøvene betyr ikke det nødvendigvis at du utelukkes fra transplantasjon, men det kan føre til ytterligere undersøkelser og eventuell forbehandling.",
+          "qas": [
+            {
+              "question": "Hvilke typer prøver tas rutinemessig i utredningen?",
+              "id": "prover_001",
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Blodprøver, urinprøver og avføringsprøver tas rutinemessig som del av utredningen."
+                }
+              ]
+            },
+            {
+              "question": "Hva er hensikten med blodprøvene?",
+              "id": "prover_002",
+              "answers": [
+                {
+                  "answer_start": 84,
+                  "text": "Hensikten er å avdekke sykdom som er av betydning for transplantasjon."
+                }
+              ]
+            },
+            {
+              "question": "Hvilke tilstander kan blodprøvene avsløre?",
+              "id": "prover_003",
+              "answers": [
+                {
+                  "answer_start": 178,
+                  "text": "Blodprøvene kan avsløre blodmangel, høy blodsenkning, infeksjon, åreforkalkning, nyre- eller leversykdom, sukkersyke eller stoffskiftesykdom."
+                }
+              ]
+            },
+            {
+              "question": "Hva undersøkes urinen for?",
+              "id": "prover_004",
+              "answers": [
+                {
+                  "answer_start": 336,
+                  "text": "Urinen undersøkes med tanke på tegn til nyresykdom eller infeksjon."
+                }
+              ]
+            },
+            {
+              "question": "Hvorfor undersøkes avføringsprøver?",
+              "id": "prover_005",
+              "answers": [
+                {
+                  "answer_start": 408,
+                  "text": "Avføringsprøver undersøkes for å se om det er forekomst av blod, som kan være uttrykk for magesår eller svulster."
+                }
+              ]
+            },
+            {
+              "question": "Hva skjer hvis det finnes feil med prøvene?",
+              "id": "prover_006",
+              "answers": [
+                {
+                  "answer_start": 580,
+                  "text": "Det kan føre til ytterligere undersøkelser og eventuell forbehandling, men du utelukkes ikke nødvendigvis fra transplantasjon."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ventetid_og_forberedelser",
+      "paragraphs": [
+        {
+          "context": "I ventetiden er det viktig at du fortsetter å leve så normalt som mulig. Unngå kontakt og samvær med personer som du vet har smittsomme sykdommer som influensa, forkjølelse, oppkast, diarè, sår hals, diverse barnesykdommer og lignende. Vær nøye med hygiene (håndvask) og hudstell for å forebygge sprukken hud og sårutvikling. Bruk fuktighetskrem ved behov. Oppstår det endring i din allmenntilstand som vektøkning, vektnedgang, økt tungpustenhet, hovne ben, infeksjonstegn med feber over 38 grader, oppkast eller diarè, skal du alltid kontakte lege.",
+          "qas": [
+            {
+              "question": "Hvordan bør man leve i ventetiden?",
+              "id": "ventetid_hygiene_001",
+              "answers": [
+                {
+                  "answer_start": 13,
+                  "text": "I ventetiden er det viktig at du fortsetter å leve så normalt som mulig."
+                }
+              ]
+            },
+            {
+              "question": "Hvilke smittsomme sykdommer bør unngås?",
+              "id": "ventetid_hygiene_002",
+              "answers": [
+                {
+                  "answer_start": 157,
+                  "text": "Unngå influensa, forkjølelse, oppkast, diarè, sår hals, diverse barnesykdommer og lignende."
+                }
+              ]
+            },
+            {
+              "question": "Hvorfor er hygiene viktig i ventetiden?",
+              "id": "ventetid_hygiene_003",
+              "answers": [
+                {
+                  "answer_start": 279,
+                  "text": "Vær nøye med hygiene for å forebygge sprukken hud og sårutvikling."
+                }
+              ]
+            },
+            {
+              "question": "Når skal fuktighetskrem brukes?",
+              "id": "ventetid_hygiene_004",
+              "answers": [
+                {
+                  "answer_start": 347,
+                  "text": "Bruk fuktighetskrem ved behov."
+                }
+              ]
+            },
+            {
+              "question": "Ved hvilke symptomer skal lege kontaktes?",
+              "id": "ventetid_hygiene_005",
+              "answers": [
+                {
+                  "answer_start": 421,
+                  "text": "Kontakt lege ved vektøkning, vektnedgang, økt tungpustenhet, hovne ben, feber over 38 grader, oppkast eller diarè."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Negler, både på fingrer og tær, må holdes nyklippet og rene under ventetiden. Støpte negler må unngås, da dette kan gi en sikkerhetsrisiko ved overvåking av deg under og etter operasjonen. Skjegg og bart må være fjernet før inngrepet, og vi anbefaler at det fjernes med en gang du kommer hjem fra utredningen, fordi kutt/sår kan medføre infeksjonsfare etter transplantasjonen. I tillegg vanskeliggjør hårvekst feste av utstyr fra ansiktet ditt til pustemaskinen. Andre hygieniske tiltak inkluderer å benytte eget håndkle, bruk flytende såpe, bytt tannbørste hyppig og alltid etter gjennomgått luftveisinfeksjon eller mageinfeksjon.",
+          "qas": [
+            {
+              "question": "Hvordan skal neglene holdes i ventetiden?",
+              "id": "hygiene_tiltak_001",
+              "answers": [
+                {
+                  "answer_start": 0,
+                  "text": "Negler, både på fingrer og tær, må holdes nyklippet og rene under ventetiden."
+                }
+              ]
+            },
+            {
+              "question": "Hvorfor må støpte negler unngås?",
+              "id": "hygiene_tiltak_002",
+              "answers": [
+                {
+                  "answer_start": 106,
+                  "text": "Støpte negler kan gi en sikkerhetsrisiko ved overvåking under og etter operasjonen."
+                }
+              ]
+            },
+            {
+              "question": "Når skal skjegg og bart fjernes?",
+              "id": "hygiene_tiltak_003",
+              "answers": [
+                {
+                  "answer_start": 276,
+                  "text": "Vi anbefaler at skjegg og bart fjernes med en gang du kommer hjem fra utredningen."
+                }
+              ]
+            },
+            {
+              "question": "Hvorfor kan hårvekst være problematisk under operasjonen?",
+              "id": "hygiene_tiltak_004",
+              "answers": [
+                {
+                  "answer_start": 412,
+                  "text": "Hårvekst vanskeliggjør feste av utstyr fra ansiktet til pustemaskinen."
+                }
+              ]
+            },
+            {
+              "question": "Når skal tannbørste byttes?",
+              "id": "hygiene_tiltak_005",
+              "answers": [
+                {
+                  "answer_start": 582,
+                  "text": "Bytt tannbørste hyppig og alltid etter gjennomgått luftveisinfeksjon eller mageinfeksjon."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Følg drikkerestriksjonen din nøye dersom du har fått begrensninger for døgnet. Notèr alt flytende, både drikke, isbiter og fuktig mat/frukt. Prøv å fordele flytende inntak utover dagen og kvelden. Vektøkning, ødemer og/eller tungpust kan være tegn på at væske hoper seg opp i kroppen din. Vei deg daglig etter toalettbesøk og før frokost. Kontakt lege om vekten øker mer enn 2 kg over 3 dager. Mange plages med munntørrhet, noe som er vanlig ved bruk av vanndrivende medisiner. Både søt og salt drikke må begrenses, da søt drikke kan øke tørsten og salt drikke kan binde vann til kroppen.",
+          "qas": [
+            {
+              "question": "Hva skal noteres ved væskerestriksjon?",
+              "id": "vaske_001",
+              "answers": [
+                {
+                  "answer_start": 80,
+                  "text": "Notèr alt flytende, både drikke, isbiter og fuktig mat/frukt."
+                }
+              ]
+            },
+            {
+              "question": "Hvordan skal væskeinntak fordeles?",
+              "id": "vaske_002",
+              "answers": [
+                {
+                  "answer_start": 142,
+                  "text": "Prøv å fordele flytende inntak utover dagen og kvelden."
+                }
+              ]
+            },
+            {
+              "question": "Hva kan være tegn på væskeopphopning?",
+              "id": "vaske_003",
+              "answers": [
+                {
+                  "answer_start": 199,
+                  "text": "Vektøkning, ødemer og/eller tungpust kan være tegn på at væske hoper seg opp i kroppen."
+                }
+              ]
+            },
+            {
+              "question": "Når skal man veie seg daglig?",
+              "id": "vaske_004",
+              "answers": [
+                {
+                  "answer_start": 288,
+                  "text": "Vei deg daglig etter toalettbesøk og før frokost."
+                }
+              ]
+            },
+            {
+              "question": "Ved hvilken vektøkning skal lege kontaktes?",
+              "id": "vaske_005",
+              "answers": [
+                {
+                  "answer_start": 339,
+                  "text": "Kontakt lege om vekten øker mer enn 2 kg over 3 dager."
+                }
+              ]
+            },
+            {
+              "question": "Hvorfor må søt og salt drikke begrenses?",
+              "id": "vaske_006",
+              "answers": [
+                {
+                  "answer_start": 538,
+                  "text": "Søt drikke kan øke tørsten og salt drikke kan binde vann til kroppen."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
