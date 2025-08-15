@@ -37,14 +37,54 @@ nor_rag.py is for RAG Experiment
 nor_kvcache.py is for CAG Experiment
 
 
-## Parameter Usage -- kvcache.py
---kvcache: "file"
---dataset: "hotpotqa-train" or "squad-train"
---similarity "bertscore"
---modelname: "meta-llama/Llama-3.1-8B-Instruct"
---maxKnowledge: "", int, select how many document in dataset, explanation in Note
---maxParagraph: 100
---maxQuestion int, max question number, explanation in Note
---randomSeed: "", int, a random seed number
---output: "", str, output filepath string
---usePrompt, add this parameter if not using CAG knowledge cache acceleration
+## Parameters nor_kvcahe.py
+
+- `--kvcache` *(string)* — e.g. `"file"`.
+- `--dataset` *(string)* — `"hotpotqa-train"` or `"squad-train"`.
+- `--similarity` *(string)* — `"bertscore"`.
+- `--modelname` *(string)* — e.g. `"meta-llama/Llama-3.1-8B-Instruct"`.
+- `--maxKnowledge` *(int)* — number of documents to use from the dataset. See **Note** below.
+- `--maxParagraph` *(int)* — default `100`.
+- `--maxQuestion` *(int)* — max number of questions. See **Note** below.
+- `--randomSeed` *(int)* — random seed.
+- `--output` *(string)* — output file path.
+- `--usePrompt` *(flag)* — include this flag if **not** using CAG knowledge-cache acceleration.
+
+> [!NOTE]
+> - For `--maxKnowledge` and `--maxQuestion`, set an integer to limit, or omit to use all available.
+> - Quotes are optional unless the value contains spaces.
+
+
+##Example -- kvcache.py
+
+```bash
+python ./nor_kvcache.py --kvcache file --dataset "squad-train" --similarity bertscore \
+    --maxKnowledge 5 --maxParagraph 100 --maxQuestion 1000  \
+    --modelname "norallm/normistral-7b-warm-instruct" --randomSeed 0 \
+    --output "./result_kvcache.txt"
+
+```
+
+##Parameter Usage -- rag.py
+- `--index` *(string)* — `"openai"` or `"bm25"`.
+- `--dataset` *(string)* — `"hotpotqa-train"` or `"squad-train"`.
+- `--similarity` *(string)* — `"bertscore"`.
+- `--maxKnowledge` *(int)* — number of documents to use from the dataset. See **Note** below.
+- `--maxParagraph` *(int)* — default `100`.
+- `--maxQuestion` *(int)* — max number of questions. See **Note** below.
+- `--topk` *(int)* — top-K results to keep from the retrieval step.
+- `--modelname` *(string)* — e.g. `"meta-llama/Llama-3.1-8B-Instruct"`.
+- `--randomSeed` *(int)* — random seed.
+- `--output` *(string)* — output file path.
+
+> [!NOTE]
+> - For `--maxKnowledge` and `--maxQuestion`, set an integer to limit, or omit to use all available.
+> - Quotes around values are optional unless the value contains spaces.
+##Example -- rag.py
+
+```bash
+python ./rag.py --index "bm25" --dataset "hotpotqa-train" --similarity bertscore \
+    --maxKnowledge 80 --maxParagraph 100 --maxQuestion 80 --topk 3 \
+    --modelname "meta-llama/Llama-3.1-8B-Instruct" --randomSeed  0 \
+    --output  "./rag_results.txt"
+```
